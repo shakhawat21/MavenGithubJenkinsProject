@@ -24,7 +24,7 @@ public class BmiCalPageTest extends BaseClass{
 		driver.get("https://bnscorporation.com/bmi-calculator/");
 		bmiCal.ClickCalculateBMI();
 		Thread.sleep(4000);
-		
+		System.out.println("Url is opening");
 
 	
 	}

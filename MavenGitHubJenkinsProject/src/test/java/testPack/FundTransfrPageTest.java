@@ -18,6 +18,7 @@ public class FundTransfrPageTest extends BaseClass{
 	public void ValidPayeeAndNoAmount() throws Exception {
 		
 		driver.get("https://bnscorporation.com/fund-transfer/");
+		System.out.println("Url is opening");
 		ft.SelectPayee("Jim");
 		ft.EnterAmount(" ");
 		ft.ClickTransfer();

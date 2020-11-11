@@ -72,7 +72,7 @@ public class FundTransfrPageTest extends BaseClass{
 		
 		ft.ClearAmountBox();
 		Thread.sleep(2000);
-		
+		System.out.println("********************************");
 	}
 	
 	@Test(priority=4)

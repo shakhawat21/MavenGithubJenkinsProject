@@ -7,7 +7,7 @@ import BasePack.BaseClass;
 import pagesPack.FundTransfrPage;
 
 public class FundTransfrPageTest extends BaseClass{
-	
+	///test
 	FundTransfrPage ft;
 	@BeforeMethod
 	public void initializePage() {

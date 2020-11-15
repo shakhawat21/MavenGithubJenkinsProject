@@ -40,6 +40,7 @@ public class FundTransfrPageTest extends BaseClass{
 		
 		ft.ClearAmountBox();
 		Thread.sleep(2000);
+		System.out.println("******************************");
 	}
 
 	@Test(priority=2)
@@ -87,7 +88,7 @@ public class FundTransfrPageTest extends BaseClass{
 		
 		ft.verifyMessage("Transfer failed!! 'John' is not approved. Please contact your branch");
 		Thread.sleep(2000);
-		
+		System.out.println("******************************");
 	}
 
 

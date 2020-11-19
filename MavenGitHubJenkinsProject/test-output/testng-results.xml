@@ -2,76 +2,76 @@
 <testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-11-09T17:10:28 EST" name="Default suite" finished-at="2020-11-09T17:11:45 EST" duration-ms="77086">
+  <suite started-at="2020-11-19T15:29:56 EST" name="Default suite" finished-at="2020-11-19T15:31:11 EST" duration-ms="75607">
     <groups>
     </groups>
-    <test started-at="2020-11-09T17:10:28 EST" name="Default test" finished-at="2020-11-09T17:11:45 EST" duration-ms="77086">
-      <class name="Test.BmiCalPageTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:Test.BmiCalPageTest@6a192cfe]" started-at="2020-11-09T17:10:28 EST" name="setup" finished-at="2020-11-09T17:10:35 EST" duration-ms="7139" status="PASS">
+    <test started-at="2020-11-19T15:29:56 EST" name="Default test" finished-at="2020-11-19T15:31:11 EST" duration-ms="75607">
+      <class name="testPack.BmiCalPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testPack.BmiCalPageTest@156b88f5]" started-at="2020-11-19T15:29:56 EST" name="setup" finished-at="2020-11-19T15:30:02 EST" duration-ms="6543" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="initializePage()[pri:0, instance:Test.BmiCalPageTest@6a192cfe]" started-at="2020-11-09T17:10:35 EST" name="initializePage" finished-at="2020-11-09T17:10:35 EST" duration-ms="35" status="PASS">
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:testPack.BmiCalPageTest@156b88f5]" started-at="2020-11-19T15:30:02 EST" name="initializePage" finished-at="2020-11-19T15:30:02 EST" duration-ms="25" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializePage -->
-        <test-method signature="NoHeightAndNoWeight()[pri:0, instance:Test.BmiCalPageTest@6a192cfe]" started-at="2020-11-09T17:10:35 EST" name="NoHeightAndNoWeight" finished-at="2020-11-09T17:10:46 EST" duration-ms="11060" status="PASS">
+        <test-method signature="NoHeightAndNoWeight()[pri:0, instance:testPack.BmiCalPageTest@156b88f5]" started-at="2020-11-19T15:30:02 EST" name="NoHeightAndNoWeight" finished-at="2020-11-19T15:30:11 EST" duration-ms="9161" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- NoHeightAndNoWeight -->
-        <test-method is-config="true" signature="initializePage()[pri:0, instance:Test.BmiCalPageTest@6a192cfe]" started-at="2020-11-09T17:10:46 EST" name="initializePage" finished-at="2020-11-09T17:10:46 EST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:testPack.BmiCalPageTest@156b88f5]" started-at="2020-11-19T15:30:11 EST" name="initializePage" finished-at="2020-11-19T15:30:11 EST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializePage -->
-        <test-method signature="ValidHeightAndNoWeight()[pri:1, instance:Test.BmiCalPageTest@6a192cfe]" started-at="2020-11-09T17:10:46 EST" name="ValidHeightAndNoWeight" finished-at="2020-11-09T17:10:51 EST" duration-ms="4372" status="PASS">
+        <test-method signature="ValidHeightAndNoWeight()[pri:1, instance:testPack.BmiCalPageTest@156b88f5]" started-at="2020-11-19T15:30:11 EST" name="ValidHeightAndNoWeight" finished-at="2020-11-19T15:30:16 EST" duration-ms="4346" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ValidHeightAndNoWeight -->
-        <test-method signature="NoHeightAndValidWeight()[pri:2, instance:Test.BmiCalPageTest@6a192cfe]" started-at="2020-11-09T17:10:51 EST" name="NoHeightAndValidWeight" finished-at="2020-11-09T17:10:59 EST" duration-ms="8249" status="PASS">
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:testPack.BmiCalPageTest@156b88f5]" started-at="2020-11-19T15:30:16 EST" name="initializePage" finished-at="2020-11-19T15:30:16 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method signature="NoHeightAndValidWeight()[pri:2, instance:testPack.BmiCalPageTest@156b88f5]" started-at="2020-11-19T15:30:16 EST" name="NoHeightAndValidWeight" finished-at="2020-11-19T15:30:24 EST" duration-ms="8452" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- NoHeightAndValidWeight -->
-        <test-method is-config="true" signature="initializePage()[pri:0, instance:Test.BmiCalPageTest@6a192cfe]" started-at="2020-11-09T17:10:51 EST" name="initializePage" finished-at="2020-11-09T17:10:51 EST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:testPack.BmiCalPageTest@156b88f5]" started-at="2020-11-19T15:30:24 EST" name="initializePage" finished-at="2020-11-19T15:30:24 EST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializePage -->
-        <test-method is-config="true" signature="initializePage()[pri:0, instance:Test.BmiCalPageTest@6a192cfe]" started-at="2020-11-09T17:10:59 EST" name="initializePage" finished-at="2020-11-09T17:10:59 EST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- initializePage -->
-        <test-method signature="UnderweightCategory()[pri:3, instance:Test.BmiCalPageTest@6a192cfe]" started-at="2020-11-09T17:10:59 EST" name="UnderweightCategory" finished-at="2020-11-09T17:11:03 EST" duration-ms="4369" status="PASS">
+        <test-method signature="UnderweightCategory()[pri:3, instance:testPack.BmiCalPageTest@156b88f5]" started-at="2020-11-19T15:30:24 EST" name="UnderweightCategory" finished-at="2020-11-19T15:30:29 EST" duration-ms="4559" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- UnderweightCategory -->
-        <test-method is-config="true" signature="initializePage()[pri:0, instance:Test.BmiCalPageTest@6a192cfe]" started-at="2020-11-09T17:11:03 EST" name="initializePage" finished-at="2020-11-09T17:11:03 EST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- initializePage -->
-        <test-method signature="NormalCategory()[pri:4, instance:Test.BmiCalPageTest@6a192cfe]" started-at="2020-11-09T17:11:03 EST" name="NormalCategory" finished-at="2020-11-09T17:11:16 EST" duration-ms="12382" status="PASS">
+        <test-method signature="NormalCategory()[pri:4, instance:testPack.BmiCalPageTest@156b88f5]" started-at="2020-11-19T15:30:29 EST" name="NormalCategory" finished-at="2020-11-19T15:30:42 EST" duration-ms="12666" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- NormalCategory -->
-        <test-method is-config="true" signature="initializePage()[pri:0, instance:Test.BmiCalPageTest@6a192cfe]" started-at="2020-11-09T17:11:16 EST" name="initializePage" finished-at="2020-11-09T17:11:16 EST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:testPack.BmiCalPageTest@156b88f5]" started-at="2020-11-19T15:30:29 EST" name="initializePage" finished-at="2020-11-19T15:30:29 EST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializePage -->
-        <test-method signature="OverweightCategory()[pri:5, instance:Test.BmiCalPageTest@6a192cfe]" started-at="2020-11-09T17:11:16 EST" name="OverweightCategory" finished-at="2020-11-09T17:11:32 EST" duration-ms="16375" status="PASS">
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:testPack.BmiCalPageTest@156b88f5]" started-at="2020-11-19T15:30:42 EST" name="initializePage" finished-at="2020-11-19T15:30:42 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializePage -->
+        <test-method signature="OverweightCategory()[pri:5, instance:testPack.BmiCalPageTest@156b88f5]" started-at="2020-11-19T15:30:42 EST" name="OverweightCategory" finished-at="2020-11-19T15:30:58 EST" duration-ms="16650" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- OverweightCategory -->
-        <test-method is-config="true" signature="initializePage()[pri:0, instance:Test.BmiCalPageTest@6a192cfe]" started-at="2020-11-09T17:11:32 EST" name="initializePage" finished-at="2020-11-09T17:11:32 EST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="initializePage()[pri:0, instance:testPack.BmiCalPageTest@156b88f5]" started-at="2020-11-19T15:30:58 EST" name="initializePage" finished-at="2020-11-19T15:30:58 EST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializePage -->
-        <test-method signature="ObesityCategory()[pri:6, instance:Test.BmiCalPageTest@6a192cfe]" started-at="2020-11-09T17:11:32 EST" name="ObesityCategory" finished-at="2020-11-09T17:11:44 EST" duration-ms="12273" status="PASS">
+        <test-method signature="ObesityCategory()[pri:6, instance:testPack.BmiCalPageTest@156b88f5]" started-at="2020-11-19T15:30:58 EST" name="ObesityCategory" finished-at="2020-11-19T15:31:11 EST" duration-ms="12417" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ObesityCategory -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:Test.BmiCalPageTest@6a192cfe]" started-at="2020-11-09T17:11:44 EST" name="teardown" finished-at="2020-11-09T17:11:45 EST" duration-ms="752" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testPack.BmiCalPageTest@156b88f5]" started-at="2020-11-19T15:31:11 EST" name="teardown" finished-at="2020-11-19T15:31:11 EST" duration-ms="702" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- Test.BmiCalPageTest -->
+      </class> <!-- testPack.BmiCalPageTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

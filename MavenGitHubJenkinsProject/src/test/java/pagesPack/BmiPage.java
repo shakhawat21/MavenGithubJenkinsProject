@@ -9,7 +9,7 @@ public class BmiPage {
 
 
 	
-	public static final String Thread = null;
+//	public static final String Thread = null;
 	@FindBy(how=How.ID, using="heightCMS")
 	WebElement UserHeight;
 	public void EnterHeight(String height) {

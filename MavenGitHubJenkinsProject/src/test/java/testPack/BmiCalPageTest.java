@@ -120,6 +120,7 @@ public class BmiCalPageTest extends BaseClass{
 		bmiCal.verifyBMICategory("Obesity");
 		Thread.sleep(4000);
 		
+		
 
 	
 	}
